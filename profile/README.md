@@ -28,5 +28,5 @@ installing and using our tools.
 We are always open to contribution and feedback. If you have a feature you'd really love to see implemented, you can always open a PR or an issue
 in the corresponding repository.
 
-# ⚠️ Disclaimer ⚠️
+# Disclaimer
 Rust3DS is NOT affiliated with Nintendo, nor do we use or work on their proprietary SDK.
